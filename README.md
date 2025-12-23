@@ -14,7 +14,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhammadrayyan18&theme=dark&hide_border=false)<br/>
 
 ## 📈 LeetCode Stats
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-muhammadrayyan-orange?style=for-the-badge&logo=leetcode)
+![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=Solved&query=solved&url=https://leetcode-stats-api.herokuapp.com/muhammadrayyan)
+
 
 
 
