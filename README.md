@@ -13,6 +13,10 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhammadrayyan18&theme=dark&hide_border=false)<br/>
 
+## 📈 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/muhammadrayyan?theme=dark&font=Karma&ext=heatmap)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
