@@ -13,7 +13,7 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhammadrayyan18&theme=dark&hide_border=false)<br/>
 
-## 📈 LeetCode Stats
+# 📈 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/muhammadrayyan?theme=dark&font=Karma)
 
 
