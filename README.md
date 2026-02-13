@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Data Structures & Algorithms, Java and Python programming projects, college academic and competitive coding problems  <br>👯 I’m looking to collaborate on: Beginner-friendly open source projects, Java/Python applications, MERN stack projects  <br>🤝 I’m looking for help with: Advanced DSA concepts, competitive programming optimization, building full-stack applications  <br>🌱 I’m currently learning: Object-Oriented Programming (Java), MERN Stack (MongoDB, Express, React, Node.js), database management & software engineering basics  <br>💬 Ask me about: Java & Python basics, DSA concepts, MERN stack fundamentals  <br>⚡ Fun fact: I enjoy breaking down complex problems into simple logic 😄<br>
+🔭 I’m currently working on: Data Structures & Algorithms, Java and Python programming projects and competitive coding problems  <br>👯 I’m looking to collaborate on: Beginner-friendly open source projects, Java/Python applications, MERN stack projects  <br>🤝 I’m looking for help with: Advanced DSA concepts, competitive programming optimization, building full-stack applications  <br>🌱 I’m currently learning: Object-Oriented Programming (Java), MERN Stack (MongoDB, Express, React, Node.js), database management & software engineering basics  <br>
 
 
 ## 🌐 Socials:
@@ -9,9 +9,7 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=Muhammadrayyan18&theme=dark&hide_border=false).
 
 # 📈 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/muhammadrayyan?theme=dark&font=Karma)<br/>
